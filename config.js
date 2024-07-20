@@ -40,14 +40,12 @@ module.exports = {
 
   nodes: [
     {
-        name: "Node #1",
-        host: "lava-v3.ajieblogs.eu.org",
-        port: 80,
-        password: "https://dsc.gg/ajidevserver",
-        reconnectTimeout: 5000,
-        reconnectTries: Infinity,
-        secure: false
-    },
+  "identifier": "AjieDev - Lavalink [SSL | UK]",
+  "password": "https://dsc.gg/ajidevserver",
+  "host": "lava-v3.ajieblogs.eu.org",
+  "port": 443,
+  "secure": true
+},
  ]
 }
 /*
