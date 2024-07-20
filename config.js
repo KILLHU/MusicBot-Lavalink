@@ -41,9 +41,9 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        host: "fi3.bot-hosting.net",
-        port: 22438,
-        password: "coders",
+        host: "lava-v3.ajieblogs.eu.org",
+        port: 443,
+        password: "https://dsc.gg/ajidevserver",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
