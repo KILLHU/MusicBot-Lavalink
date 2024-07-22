@@ -40,10 +40,10 @@ module.exports = {
 
   nodes: [
     {
-        name: "Node #1",
-        host: "ssl.lavalink.rocks",
+        name: "Akshtt - Free",
+        host: "lavalink.akshtt.is-a.dev",
         port: 443,
-        password: "horizxon.tech",
+        password: "admin",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: true
